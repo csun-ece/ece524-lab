@@ -30,7 +30,7 @@ The lab accompanying the course covers modeling of digital systems and electroni
 This course is half Online and half in person. Instructor will announce any required in person meetings in advanced.
 Meeting times are Tu 9:00 AM to 11:45 AM. Class attendance is not required, but is fully encouraged.
 Online meeting sessions will be recorded and will be posted to "Panopto Video" tab in Canvas.
-I person meetings will not be live streamed or recorded.
+In person meetings will not be live streamed or recorded.
 
 ## Grading
 
