@@ -25,6 +25,13 @@
 
 The lab accompanying the course covers modeling of digital systems and electronic circuit design hierarchy and the role of methodology in FPGA/ASIC design.  Hardware Description Language, VHDL, simulation, and synthesis tools are utilized to elaborate the material covered throughout the course. The lab introduces the systematic top-down design methodology to design complex digital hardware such as FPGAs and ASICs.  FPGA and ASIC design flow as well as design optimization techniques are discussed.  For FPGAs, Xilinx Virtex architecture is covered. Group projects are assigned to students as final exam.
 
+## Meeting:
+
+This course is half Online and half in person. Instructor will announce any required in person meetings in advanced.
+Meeting times are Tu 9:00 AM to 11:45 AM. Class attendance is not required, but is fully encouraged.
+Online meeting sessions will be recorded and will be posted to "Panopto Video" tab in Canvas.
+I person meetings will not be live streamed or recorded.
+
 ## Grading
 
 Final grades will be based on the total of points earned according to the following rubric:
