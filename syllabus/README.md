@@ -40,7 +40,7 @@ Final grades will be based on the total of points earned according to the follow
 | -- | -- | -- |
 | Main Source code completion | Source code shall be Synthesizable | 25% synthesizable<br/> 0% not synthesizable | 
 | Testbench code completion | Testbench shall be Synthesizable | 25% synthesizable<br/> 0% not synthesizable | 
-| Project specific requirements completion | All the requirements shall be met.<br/>*Each lab project has specific requirements including Hardware verification<br/>and other specifications.*| 25% complete<br/> 10% incomplete </br> - 0% no submission |
+| Project specific requirements completion | All the requirements shall be met.<br/>*Each lab project has specific requirements including Hardware verification<br/>and other specifications.*| 25% complete<br/> 10% incomplete </br> 0% no submission |
 | Lab report completion | See Lab report format below | 10% complete report<br/> 5% incomplete report<br/> 0% no submission |
 | On-time submission | All labs are due on the given due date.<br/>Commits after due date will not be reviewed.<br/>Commits after grade submission will not be reviewed. | 5% On time submission<br/> 0% late submission |
 
